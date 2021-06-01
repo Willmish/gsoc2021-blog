@@ -21,6 +21,14 @@ github_username: JDuchniewicz
 # Build settings
 theme: minima
 
+header_pages:
+  - _pages/frontpage.md
+
+exclude: 
+    - .gitignore
+    - LICENSE
+    - README.md
+    
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
