@@ -1,7 +1,7 @@
 title: GPGPU with GLES
 author:
   name: Jakub Duchniewicz
-  email: j.duchniewicz@gmail.com
+  email: "j.duchniewicz@gmail.com"
 description: > # this means to ignore newlines until "show_excerpts:"
   Website for Google Summer of Code 2021 BeagleBone project GPGPU with GLES. Weekly updates and technical posts.
 
@@ -24,6 +24,9 @@ minima:
 
 # Build settings
 theme: minima
+
+minima:
+  skin: dark
 
 plugins:
  - jekyll-feed
