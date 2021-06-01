@@ -19,7 +19,7 @@ github_username: JDuchniewicz
 # - about.md
 
 # Build settings
-remote_theme: minima
+remote_theme: benbalter/retlab
 
 header_pages:
   - _pages/frontpage.md
@@ -35,3 +35,4 @@ exclude:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
