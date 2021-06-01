@@ -19,7 +19,7 @@ github_username: JDuchniewicz
 # - about.md
 
 # Build settings
-remote_theme: minima
+remote_theme: jekyll/minima
 
 header_pages:
   - _pages/frontpage.md
