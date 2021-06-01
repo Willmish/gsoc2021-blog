@@ -24,10 +24,12 @@ theme: minima
 header_pages:
   - _pages/frontpage.md
 
+include:
+  - _pages
 exclude: 
-    - .gitignore
-    - LICENSE
-    - README.md
+  - .gitignore
+  - LICENSE
+  - README.md
     
 plugins:
  - jekyll-feed
