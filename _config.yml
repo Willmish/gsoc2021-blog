@@ -19,7 +19,7 @@ github_username: JDuchniewicz
 # - about.md
 
 # Build settings
-remote_theme: benbalter/retlab
+remote_theme: minima
 
 header_pages:
   - _pages/frontpage.md
