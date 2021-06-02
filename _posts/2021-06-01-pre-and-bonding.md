@@ -18,3 +18,4 @@ categories: GSoC updates
 * Reading through the course contents
 * Setting up the PowerVR SDK, doing practical exercises
 * Brushing up on OpenGL knowledge and extending it with GLES new knowledge
+* Opened a [PR](https://github.com/powervr-graphics/Native_SDK/pull/69) for building PowerVR SDK
