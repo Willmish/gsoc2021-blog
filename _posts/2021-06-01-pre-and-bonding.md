@@ -16,3 +16,5 @@ categories: GSoC updates
 * Setting up this website and the GH repository for the code.
 * Getting in touch with Imagination and requesting their PowerVR SDK [course](https://university.imgtec.com/resources/download/introduction-to-mobile-graphics/)
 * Reading through the course contents
+* Setting up the PowerVR SDK, doing practical exercises
+* Brushing up on OpenGL knowledge and extending it with GLES new knowledge
