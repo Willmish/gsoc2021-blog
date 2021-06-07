@@ -7,15 +7,15 @@ categories: GSoC updates
 
 ## Before announcing the results
 
-* Getting familiar with GPU architecture
-* Practicing general GPU operations using CUDA framework
-* Learning about parallelism and utilizing OpenMP and MPI to achieve it
+* Got familiar with GPU architecture
+* Practiced general GPU operations using CUDA framework
+* Learned about parallelism and utilizing OpenMP and MPI to achieve it
 
 ## Community bonding period
 
-* Setting up this website and the GH repository for the code.
-* Getting in touch with Imagination and requesting their PowerVR SDK [course](https://university.imgtec.com/resources/download/introduction-to-mobile-graphics/)
-* Reading through the course contents
-* Setting up the PowerVR SDK, doing practical exercises
-* Brushing up on OpenGL knowledge and extending it with GLES new knowledge
+* Set up this website and the GH repository for the code.
+* Got in touch with Imagination and requested their PowerVR SDK [course](https://university.imgtec.com/resources/download/introduction-to-mobile-graphics/)
+* Read through the course contents
+* Set up the PowerVR SDK, done practical exercises
+* Brushed up on OpenGL knowledge and extended it with GLES new knowledge
 * Opened a [PR](https://github.com/powervr-graphics/Native_SDK/pull/69) for building PowerVR SDK
