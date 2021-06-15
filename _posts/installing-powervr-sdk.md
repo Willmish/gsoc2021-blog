@@ -46,3 +46,19 @@ cd build/bin
 ```
 
 It should display a nice triangle and close upon clicking on the window. This is all!
+
+## Installing and testing on target (BBB)
+First we should install our dependencies, such as EGL or GLES:
+```
+sudo apt install libegl1 libgles2
+```
+And create proper symlinks in the directory `/usr/lib/arm-linux-gnueabihf`:
+```
+sudo ln -s libEGL.so.1 libEGL.so
+sudo ln -s libGLESv2.so.2 libGLESv2.so
+```
+
+Similarly as above, but with no window specified, we have to compile the SDK:
+```
+cmake .. -DPVR_WINDOW_SYSTEM=NullWS
+```
