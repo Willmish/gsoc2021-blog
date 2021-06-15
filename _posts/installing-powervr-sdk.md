@@ -62,3 +62,4 @@ Similarly as above, but with no window specified, we have to compile the SDK:
 ```
 cmake .. -DPVR_WINDOW_SYSTEM=NullWS
 ```
+Assuming you have the BBB image which can display something on a monitor, you can test any binary under `build/bin`.
