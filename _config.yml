@@ -1,8 +1,8 @@
 title: Wio Terminal as Zephyr Greybus host 
-author: "Jakub Duchniewicz"
+author: "Szymon Duchniewicz"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Website for Google Summer of Code 2021 BeagleBone project GPGPU with GLES. Weekly updates and technical posts.
-
+  Website for project updates on Wio Terminal as Zephyr Greybus host.
+  
 show_excerpts: true
 
 # Minima date format
@@ -12,7 +12,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 
-github_username: JDuchniewicz
+github_username: Willmish
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
